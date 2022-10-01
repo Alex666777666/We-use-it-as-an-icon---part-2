@@ -1,0 +1,19 @@
+.batteries {
+  display: flex;
+  justify-content: space-between;
+}
+i.fa.fa-battery-full {
+  font-size: 16px;
+}
+i.fa.fa-battery-three-quarters {
+  font-size: 32px;
+}
+i.fa.fa-battery-half {
+  font-size: 64px;
+}
+i.fa.fa-battery-quarter {
+  font-size: 128px;
+}
+i.fa.fa-battery-empty {
+  font-size: 256px;
+}
